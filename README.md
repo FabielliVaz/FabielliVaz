@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fabiellivaz@gmail.com**
 
-- ⚡ Fun fact **Já fiz parte do setor comercial, administrativo, customer success, e atualmente estou me aventurando na programação para complementar meu trabalho como QA.**
+- ⚡ Fun fact **I've been part of the commercial, administrative, customer success sector, and I'm currently venturing into programming to complement my work as QA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
