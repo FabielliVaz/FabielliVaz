@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabivaz&label=views&color=000000&style=plastic" alt="fabivaz" /> </p>
 
-- 🌱 I’m currently learning **Java, JavaScript, Agile methods and Selenium IDE.**
+- 🌱 I’m currently learning **Java, JavaScript, Agile methods and Cypress.io.**
 
 - 💬 Ask me about **Software quality**
 
