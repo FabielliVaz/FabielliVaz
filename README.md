@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabivaz&label=views&color=000000&style=plastic" alt="fabivaz" /> </p>
 
-- 💡 Foco: **JavaScript, Métodos Ágeis e área de Product Manager.**
+- 💡 Foco: **Quality Analyst, Metodologia Ágil e área de Product Manager.**
 
-- 💬 Vamos falar sobre: **Qualidade de software, estratégias de Testes, foco no usuário, conversa boa com doses de serotonina...**
+- 💬 Vamos falar sobre: **Qualidade de software, estratégias de Testes, foco no usuário e automação de testes...**
 
 - 📫 Contato: **fabiellivaz@gmail.com**
 
